@@ -13,6 +13,11 @@ Since the dataset's dedicated skills_desc column was 98% null,
 this notebook implements a custom keyword scanning approach to 
 quantify skill demand signals from unstructured job description text.
 
+**top_20_healthcare_skills.png**  
+A horizontal bar chart showing the top 20 healthcare skills by frequency
+identified in description solumn of the cleaned job posting dataset. This
+chart was built using matplotlib.
+
 ## Methodology
 
 The notebook follows this analytical sequence:
