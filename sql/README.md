@@ -7,7 +7,7 @@ job postings dataset across four analytical files.
 
 **cleaned_queries.sql**  
 Foundational cleaning pipeline applied to the raw job postings table. 
-Contains two CTEs — clean_postings and filtered_postings — that form 
+Contains two CTEs (clean_postings and filtered_postings) that form 
 the base dataset referenced by all downstream analysis files.
 
 Key operations performed:
