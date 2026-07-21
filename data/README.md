@@ -1,16 +1,15 @@
 # Data
 
-This folder contains the raw and cleaned versions of the LinkedIn 
+This folder contains cleaned versions of the LinkedIn 
 job postings dataset used in this analysis.
 
 ## Files
 
-**job_postings_raw.csv**  
-The original LinkedIn Job Postings 2023–2024 dataset as downloaded 
-from Kaggle. Contains 123,842 job postings across all industries with 
+**Raw Dataset**  
+The original LinkedIn Job Postings 2023–2024 dataset was too large to be uploaded, but it is available on 
+[Kaggle]([https://www.kaggle.com/](https://www.kaggle.com/datasets/arshkon/linkedin-job-postings)). Contains 123,842 job postings across all industries with 
 columns including job_id, company_name, title, description, location, 
-min_salary, max_salary, pay_period, and skills_desc among others. No 
-modifications have been made to this file.
+min_salary, max_salary, pay_period, and skills_desc among others. 
 
 **job_postings_clean.csv**  
 The cleaned and filtered dataset exported from BigQuery after applying 
@@ -22,7 +21,7 @@ analysis, Python skill extraction, and Power BI visualization.
 
 ## Filtering Summary
 
-The raw dataset was reduced from 123,842 to 2,868 rows through the 
+The raw dataset was reduced from 123,842 to 2,855 rows through the 
 following process:
 
 - **Condition 1:** Pure healthcare organizations included without 
