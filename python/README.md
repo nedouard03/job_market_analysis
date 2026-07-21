@@ -18,7 +18,7 @@ quantify skill demand signals from unstructured job description text.
 The notebook follows this analytical sequence:
 
 1. **Data loading** — cleaned job postings CSV imported into a 
-   pandas DataFrame (2,868 rows)
+   pandas DataFrame (2,854 rows)
 2. **Keyword list definition** — skills organized into three 
    categories:
    - Technical tools (SQL, Excel, Python, R, Tableau, Power BI, 
