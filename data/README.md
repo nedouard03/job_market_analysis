@@ -7,7 +7,7 @@ job postings dataset used in this analysis.
 
 **Raw Dataset**  
 The original LinkedIn Job Postings 2023–2024 dataset was too large to be uploaded, but it is available on 
-[Kaggle]([https://www.kaggle.com/](https://www.kaggle.com/datasets/arshkon/linkedin-job-postings)). Contains 123,842 job postings across all industries with 
+[Kaggle]([https://www.kaggle.com/](https://www.kaggle.com/datasets/arshkon/linkedin-job-postings]). Contains 123,842 job postings across all industries with 
 columns including job_id, company_name, title, description, location, 
 min_salary, max_salary, pay_period, and skills_desc among others. 
 
@@ -37,12 +37,12 @@ following process:
 - **Deduplication:** 44 duplicate job_id records removed
 
 Full documentation of all cleaning decisions is available in 
-[`/findings/data_cleaning_report.pdf`](../findings/data_cleaning_report.pdf)
+[`/findings/Healthcare Job Market Data Cleaning Report.pdf`](../findings/Healthcare Job Market Data Cleaning Report.pdf)
 
 ## Source
 
 LinkedIn Job Postings 2023–2024 dataset, available on 
-[Kaggle]([https://www.kaggle.com/](https://www.kaggle.com/datasets/arshkon/linkedin-job-postings))
+[Kaggle]([https://www.kaggle.com/](https://www.kaggle.com/datasets/arshkon/linkedin-job-postings])
 
 ## Notes
 
