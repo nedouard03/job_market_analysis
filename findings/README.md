@@ -5,7 +5,7 @@ process, and key analytical results.
 
 ## Files
 
-**Healthcare Job Market Findings Summary.pdf**  
+**healthcare_job_market_findings_summary.pdf**  
 A one-page summary covering the project's problem statement, 
 methodology, key insights across role demand, geographic 
 concentration, skill demand, and compensation analysis, and 
@@ -13,7 +13,7 @@ implications for healthcare operations and analytics professionals.
 The primary takeaway document for anyone wanting a quick overview 
 of results without reviewing the underlying queries or notebook.
 
-**Healthcare Job Market Data Cleaning Report.pdf**  
+**healthcare_job_market_data_cleaning_report.pdf**  
 Detailed documentation of all data quality issues identified in 
 the raw LinkedIn job postings dataset and the resolutions applied 
 to each. Covers seven documented issues including non-healthcare 
