@@ -37,7 +37,7 @@ following process:
 - **Deduplication:** 44 duplicate job_id records removed
 
 Full documentation of all cleaning decisions is available in 
-[`/findings/Healthcare Job Market Data Cleaning Report.pdf`](../findings/Healthcare Job Market Data Cleaning Report.pdf)
+[`/findings/healthcare_job_market_data_cleaning_report.pdf`](../findings/healthcare_job_market_data_cleaning_report.pdf)
 
 ## Source
 
