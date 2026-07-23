@@ -62,7 +62,7 @@ View the interactive dashboard on Power BI Service: [link]
 ## Data Source
 
 LinkedIn Job Postings 2023–2024 dataset, accessed via 
-[Kaggle]([https://www.kaggle.com/](https://www.kaggle.com/datasets/arshkon/linkedin-job-postings))
+[Kaggle](https://www.kaggle.com/datasets/arshkon/linkedin-job-postings)
 
 ## About
 
