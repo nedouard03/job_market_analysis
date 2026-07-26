@@ -12,7 +12,7 @@ connections, and visualizations. Open with Power BI Desktop (free
 download at app.powerbi.com) to interact with the full dashboard 
 and explore underlying data connections.
 
-**dashboard_screenshot.png**  
+**job_market_dashboard.jpeg**  
 Static image of the published dashboard for quick reference without 
 opening Power BI Desktop.
 
