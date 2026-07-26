@@ -16,11 +16,6 @@ and explore underlying data connections.
 Static image of the published dashboard for quick reference without 
 opening Power BI Desktop.
 
-## Live Version
-
-The dashboard is published and viewable without any software:  
-[View on Power BI Service] — link coming soon
-
 ## Dashboard Contents
 
 - **KPI cards:** Total postings analyzed, percentage with salary 
