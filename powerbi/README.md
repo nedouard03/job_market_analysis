@@ -6,7 +6,7 @@ compensation patterns.
 
 ## Files
 
-**Healthcare_Job_Market_Dashboard.pbix**  
+**healthcare_job_market_analysis.pbix**  
 Power BI Desktop workbook containing all report pages, data 
 connections, and visualizations. Open with Power BI Desktop (free 
 download at app.powerbi.com) to interact with the full dashboard 
