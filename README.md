@@ -55,10 +55,6 @@ Full findings summary available in [`/findings`](./findings).
 - **Power BI** — dashboard visualization and published report
 - **Microsoft Excel** — supplementary data exploration
 
-## Live Dashboard
-
-View the interactive dashboard on Power BI Service: [link]
-
 ## Data Source
 
 LinkedIn Job Postings 2023–2024 dataset, accessed via 
