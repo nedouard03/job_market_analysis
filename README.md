@@ -13,7 +13,7 @@ frequently across postings, and how compensation varies across
 functional role categories.
 
 A three-condition filtering methodology was designed and applied to 
-isolate 2,868 healthcare-relevant postings from the raw dataset of 
+isolate 2,854 healthcare-relevant postings from the raw dataset of 
 123,842 — combining company-level classification, description-level 
 keyword matching, and title-level categorization to ensure analytical 
 relevance without relying on broad keyword overlap with non-healthcare 
