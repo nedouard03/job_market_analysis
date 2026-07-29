@@ -23,19 +23,28 @@ categorization, and title exclusion list implementation.
 
 ## Summary of Key Insights
 
-1. Nearly one third of healthcare operations and analytics postings 
-   are concentrated in California, Texas, New York, and Florida. 
-   Candidates open to relocation to these markets have access to 
-   significantly more opportunities
-2. Clinical Operations roles command the highest average compensation 
-   at approximately $118,300 annually, nearly double the Coordinator 
-   entry point of approximately $57,000
-3. The healthcare job market is highly fragmented by title with no 
-   dominant role type, reflecting the diversity of functional 
-   specializations within healthcare operations
-4. Only 27% of postings disclosed salary information, compensation 
-   findings reflect employers who chose to post ranges and may not 
-   represent the full market
+1. Nearly one third of all healthcare operations and analytics postings
+are concentrated in four states — California, Texas, New York, and
+Florida
+2. Clinical Operations roles command the highest average compensation
+at approximately $118,300 annually while Coordinator roles represent
+the entry point at approximately $57,000
+3. Manager-level roles account for the largest share of postings among
+the four primary role categories, while Consultant roles are the
+least represented at 2.1% of the dataset
+4. Despite this, Consultant roles command an average salary of
+approximately $102,900 — outearning the higher-demand Analyst and
+Coordinator categories, suggesting that scarcity of specialized
+expertise drives compensation more strongly than posting volume alone
+5. Excel is the most frequently mentioned skill, appearing in
+approximately 21% of postings — functioning as a baseline expectation
+rather than a differentiator, with healthcare domain knowledge
+(Medicare, Medicaid, claims, HIPAA) more strongly associated with
+role requirements
+6. The healthcare operations and analytics job market is highly
+fragmented by title — no single job title accounts for a dominant
+share of postings, reflecting the diversity of functional roles
+within the space
 
 See the full findings summary PDF for complete methodology and 
 implications.
