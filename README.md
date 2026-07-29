@@ -19,6 +19,8 @@ keyword matching, and title-level categorization to ensure analytical
 relevance without relying on broad keyword overlap with non-healthcare 
 job posting language.
 
+<img width="1116" height="620" alt="job_market_dashboard" src="https://github.com/user-attachments/assets/5630eefa-1915-42bb-82c9-db956bf21793" />
+
 ## Key Findings
 
 - Nearly one third of all healthcare operations and analytics postings 
