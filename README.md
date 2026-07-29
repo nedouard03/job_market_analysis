@@ -23,19 +23,28 @@ job posting language.
 
 ## Key Findings
 
-- Nearly one third of all healthcare operations and analytics postings 
-  are concentrated in four states — California, Texas, New York, and 
-  Florida
-- Clinical Operations roles command the highest average compensation 
-  at approximately $118,300 annually while Coordinator roles represent 
-  the entry point at approximately $57,000
-- Manager-level roles account for the largest share of postings among 
-  the four primary role categories, while Consultant roles are the 
-  least represented at 2.1% of the dataset
-- The healthcare operations and analytics job market is highly 
-  fragmented by title — no single job title accounts for a dominant 
-  share of postings, reflecting the diversity of functional roles 
-  within the space
+- Nearly one third of all healthcare operations and analytics postings
+are concentrated in four states — California, Texas, New York, and
+Florida
+- Clinical Operations roles command the highest average compensation
+at approximately $118,300 annually while Coordinator roles represent
+the entry point at approximately $57,000
+- Manager-level roles account for the largest share of postings among
+the four primary role categories, while Consultant roles are the
+least represented at 2.1% of the dataset
+- Despite this, Consultant roles command an average salary of
+approximately $102,900 — outearning the higher-demand Analyst and
+Coordinator categories, suggesting that scarcity of specialized
+expertise drives compensation more strongly than posting volume alone
+- Excel is the most frequently mentioned skill, appearing in
+approximately 21% of postings — functioning as a baseline expectation
+rather than a differentiator, with healthcare domain knowledge
+(Medicare, Medicaid, claims, HIPAA) more strongly associated with
+role requirements
+- The healthcare operations and analytics job market is highly
+fragmented by title — no single job title accounts for a dominant
+share of postings, reflecting the diversity of functional roles
+within the space
 
 Full findings summary available in [`/findings`](./findings).
 
